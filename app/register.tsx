@@ -10,7 +10,7 @@ import {
   ActivityIndicator,
   Pressable,
 } from 'react-native';
-import { Link, useRouter } from 'expo-router';
+import { Link,} from 'expo-router';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import AppButton from '@/components/AppButton';
